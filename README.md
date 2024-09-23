@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hamrouni-wajdi
-- 👀 I’m interested in JavaScript frameworks, React, Node, Svelte, Anlgular...
+- 👀 I’m interested in JavaScript frameworks, React, Node, Anlgular...
 - 🌱 I’m currently learning Svelte and Python
 - 💞️ I’m looking to collaborate on MERN stack Projects
 - 📫 How to reach me wajdihamrouni501@gmail.com
