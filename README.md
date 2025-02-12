@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hamrouni-wajdi
-- 👀 I’m interested in JavaScript frameworks, React, Node, Anlgular...
+- 👀 I’m a fullstack JavaScript/Typescript developer, React, Anlgular, Node, Nestjs, PostgreSQL ...
 - 🌱 I’m currently learning Svelte and Python
-- 💞️ I’m looking to collaborate on MERN stack Projects
+- 💞️ I’m looking to collaborate on Typescript stack Projects
 - 📫 How to reach me wajdihamrouni501@gmail.com
 
 <!---
